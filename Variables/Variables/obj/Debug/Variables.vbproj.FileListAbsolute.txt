@@ -1,0 +1,11 @@
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Variables\Variables\bin\Debug\Variables.xml
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Variables\Variables\obj\Debug\Variables.Form1.resources
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Variables\Variables\obj\Debug\Variables.Resources.resources
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Variables\Variables\obj\Debug\Variables.vbproj.GenerateResource.cache
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Variables\Variables\obj\Debug\Variables.vbproj.CoreCompileInputs.cache
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Variables\Variables\obj\Debug\Variables.xml
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Variables\Variables\obj\Debug\Variables.pdb
