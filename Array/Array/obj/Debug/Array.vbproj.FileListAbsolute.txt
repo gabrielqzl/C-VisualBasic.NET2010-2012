@@ -1,0 +1,12 @@
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Array\Array\bin\Debug\Array.exe.config
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Array\Array\bin\Debug\Array.exe
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Array\Array\bin\Debug\Array.pdb
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Array\Array\bin\Debug\Array.xml
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Array\Array\obj\Debug\Array.Form1.resources
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Array\Array\obj\Debug\Array.Resources.resources
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Array\Array\obj\Debug\Array.vbproj.GenerateResource.cache
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Array\Array\obj\Debug\Array.vbproj.CoreCompileInputs.cache
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Array\Array\obj\Debug\Array.exe
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Array\Array\obj\Debug\Array.xml
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Array\Array\obj\Debug\Array.pdb
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Array\Array\obj\Debug\Array.vbprojAssemblyReference.cache
