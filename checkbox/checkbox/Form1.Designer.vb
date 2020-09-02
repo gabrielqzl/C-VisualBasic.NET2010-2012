@@ -1,5 +1,9 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+<<<<<<< Updated upstream
 Partial Class t
+=======
+Partial Class Form1
+>>>>>>> Stashed changes
     Inherits System.Windows.Forms.Form
 
     'Form reemplaza a Dispose para limpiar la lista de componentes.
@@ -22,6 +26,7 @@ Partial Class t
     'No lo modifique con el editor de código.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+<<<<<<< Updated upstream
         Me.lblPregunta = New System.Windows.Forms.Label()
         Me.rock = New System.Windows.Forms.CheckBox()
         Me.pop = New System.Windows.Forms.CheckBox()
@@ -126,4 +131,19 @@ Partial Class t
     Friend WithEvents llanera As Windows.Forms.CheckBox
     Friend WithEvents otros As Windows.Forms.CheckBox
     Friend WithEvents btnEnviar As Button
+=======
+        Me.SuspendLayout()
+        '
+        'Form1
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.ClientSize = New System.Drawing.Size(477, 450)
+        Me.Name = "Form1"
+        Me.Text = "Form1"
+        Me.ResumeLayout(False)
+
+    End Sub
+
+>>>>>>> Stashed changes
 End Class
