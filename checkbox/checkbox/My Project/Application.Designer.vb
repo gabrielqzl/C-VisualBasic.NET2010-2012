@@ -32,7 +32,7 @@ Namespace My
 
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()> _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.checkbox.Form1
+            Me.MainForm = Global.checkbox.t
         End Sub
     End Class
 End Namespace
