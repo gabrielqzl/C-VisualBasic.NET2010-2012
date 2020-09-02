@@ -1,6 +1,10 @@
 ﻿Public Class Form1
     Private num1, num2, suma As Integer
 
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
+
     Private Sub BtnUno_Click(sender As Object, e As EventArgs) Handles BtnSuma.Click
         num1 = TxtNum1.Text
         num2 = TxtNum2.Text
