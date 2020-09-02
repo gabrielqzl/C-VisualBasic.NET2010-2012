@@ -1,0 +1,12 @@
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\logicos\logicos\bin\Debug\logicos.exe.config
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\logicos\logicos\bin\Debug\logicos.exe
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\logicos\logicos\bin\Debug\logicos.pdb
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\logicos\logicos\bin\Debug\logicos.xml
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\logicos\logicos\obj\Debug\logicos.Form1.resources
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\logicos\logicos\obj\Debug\logicos.Resources.resources
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\logicos\logicos\obj\Debug\logicos.vbproj.GenerateResource.cache
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\logicos\logicos\obj\Debug\logicos.vbproj.CoreCompileInputs.cache
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\logicos\logicos\obj\Debug\logicos.exe
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\logicos\logicos\obj\Debug\logicos.xml
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\logicos\logicos\obj\Debug\logicos.pdb
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\logicos\logicos\obj\Debug\logicos.vbprojAssemblyReference.cache
