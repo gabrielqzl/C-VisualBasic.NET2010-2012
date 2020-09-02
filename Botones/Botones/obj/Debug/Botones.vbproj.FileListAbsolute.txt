@@ -1,0 +1,12 @@
+C:\Users\GabrielW\source\repos\Botones\Botones\bin\Debug\Botones.exe.config
+C:\Users\GabrielW\source\repos\Botones\Botones\bin\Debug\Botones.exe
+C:\Users\GabrielW\source\repos\Botones\Botones\bin\Debug\Botones.pdb
+C:\Users\GabrielW\source\repos\Botones\Botones\bin\Debug\Botones.xml
+C:\Users\GabrielW\source\repos\Botones\Botones\obj\Debug\Botones.vbprojAssemblyReference.cache
+C:\Users\GabrielW\source\repos\Botones\Botones\obj\Debug\Botones.Form1.resources
+C:\Users\GabrielW\source\repos\Botones\Botones\obj\Debug\Botones.Resources.resources
+C:\Users\GabrielW\source\repos\Botones\Botones\obj\Debug\Botones.vbproj.GenerateResource.cache
+C:\Users\GabrielW\source\repos\Botones\Botones\obj\Debug\Botones.vbproj.CoreCompileInputs.cache
+C:\Users\GabrielW\source\repos\Botones\Botones\obj\Debug\Botones.exe
+C:\Users\GabrielW\source\repos\Botones\Botones\obj\Debug\Botones.xml
+C:\Users\GabrielW\source\repos\Botones\Botones\obj\Debug\Botones.pdb
