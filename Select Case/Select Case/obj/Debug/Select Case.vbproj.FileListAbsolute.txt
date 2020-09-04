@@ -1,0 +1,12 @@
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Select Case\Select Case\bin\Debug\Select Case.exe.config
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Select Case\Select Case\bin\Debug\Select Case.exe
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Select Case\Select Case\bin\Debug\Select Case.pdb
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Select Case\Select Case\bin\Debug\Select Case.xml
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Select Case\Select Case\obj\Debug\Select Case.vbprojAssemblyReference.cache
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Select Case\Select Case\obj\Debug\Select_Case.Form1.resources
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Select Case\Select Case\obj\Debug\Select_Case.Resources.resources
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Select Case\Select Case\obj\Debug\Select Case.vbproj.GenerateResource.cache
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Select Case\Select Case\obj\Debug\Select Case.vbproj.CoreCompileInputs.cache
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Select Case\Select Case\obj\Debug\Select Case.exe
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Select Case\Select Case\obj\Debug\Select Case.xml
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\Select Case\Select Case\obj\Debug\Select Case.pdb
