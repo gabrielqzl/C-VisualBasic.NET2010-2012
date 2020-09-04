@@ -1,0 +1,12 @@
+C:\Users\GabrielW\source\repos\Do While\Do While\bin\Debug\Do While.exe.config
+C:\Users\GabrielW\source\repos\Do While\Do While\bin\Debug\Do While.exe
+C:\Users\GabrielW\source\repos\Do While\Do While\bin\Debug\Do While.pdb
+C:\Users\GabrielW\source\repos\Do While\Do While\bin\Debug\Do While.xml
+C:\Users\GabrielW\source\repos\Do While\Do While\obj\Debug\Do While.vbprojAssemblyReference.cache
+C:\Users\GabrielW\source\repos\Do While\Do While\obj\Debug\Do_While.Form1.resources
+C:\Users\GabrielW\source\repos\Do While\Do While\obj\Debug\Do_While.Resources.resources
+C:\Users\GabrielW\source\repos\Do While\Do While\obj\Debug\Do While.vbproj.GenerateResource.cache
+C:\Users\GabrielW\source\repos\Do While\Do While\obj\Debug\Do While.vbproj.CoreCompileInputs.cache
+C:\Users\GabrielW\source\repos\Do While\Do While\obj\Debug\Do While.exe
+C:\Users\GabrielW\source\repos\Do While\Do While\obj\Debug\Do While.xml
+C:\Users\GabrielW\source\repos\Do While\Do While\obj\Debug\Do While.pdb
