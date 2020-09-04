@@ -1,0 +1,12 @@
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\soloNumeros\soloNumeros\bin\Debug\soloNumeros.exe.config
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\soloNumeros\soloNumeros\bin\Debug\soloNumeros.exe
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\soloNumeros\soloNumeros\bin\Debug\soloNumeros.pdb
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\soloNumeros\soloNumeros\bin\Debug\soloNumeros.xml
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\soloNumeros\soloNumeros\obj\Debug\soloNumeros.vbprojAssemblyReference.cache
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\soloNumeros\soloNumeros\obj\Debug\soloNumeros.Form1.resources
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\soloNumeros\soloNumeros\obj\Debug\soloNumeros.Resources.resources
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\soloNumeros\soloNumeros\obj\Debug\soloNumeros.vbproj.GenerateResource.cache
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\soloNumeros\soloNumeros\obj\Debug\soloNumeros.vbproj.CoreCompileInputs.cache
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\soloNumeros\soloNumeros\obj\Debug\soloNumeros.exe
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\soloNumeros\soloNumeros\obj\Debug\soloNumeros.xml
+C:\Users\GabrielW\Proyectos Webs\Curso Visual Basic .NET 2010 2012 Codigo Facilito\C-VisualBasic.NET2010-2012\soloNumeros\soloNumeros\obj\Debug\soloNumeros.pdb
