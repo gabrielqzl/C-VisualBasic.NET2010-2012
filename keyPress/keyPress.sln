@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "keyPress", "keyPress\keyPress.vbproj", "{C6D01A51-0F10-4E70-8A22-A2F2F948C561}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6D01A51-0F10-4E70-8A22-A2F2F948C561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D01A51-0F10-4E70-8A22-A2F2F948C561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D01A51-0F10-4E70-8A22-A2F2F948C561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D01A51-0F10-4E70-8A22-A2F2F948C561}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEC17A60-4316-4B81-B4A6-06D31A3A8AF0}
+	EndGlobalSection
+EndGlobal
