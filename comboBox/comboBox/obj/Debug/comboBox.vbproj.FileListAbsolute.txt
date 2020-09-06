@@ -1,0 +1,11 @@
+C:\Users\GabrielW\source\repos\comboBox\comboBox\bin\Debug\comboBox.exe.config
+C:\Users\GabrielW\source\repos\comboBox\comboBox\bin\Debug\comboBox.exe
+C:\Users\GabrielW\source\repos\comboBox\comboBox\bin\Debug\comboBox.pdb
+C:\Users\GabrielW\source\repos\comboBox\comboBox\bin\Debug\comboBox.xml
+C:\Users\GabrielW\source\repos\comboBox\comboBox\obj\Debug\comboBox.Form1.resources
+C:\Users\GabrielW\source\repos\comboBox\comboBox\obj\Debug\comboBox.Resources.resources
+C:\Users\GabrielW\source\repos\comboBox\comboBox\obj\Debug\comboBox.vbproj.GenerateResource.cache
+C:\Users\GabrielW\source\repos\comboBox\comboBox\obj\Debug\comboBox.vbproj.CoreCompileInputs.cache
+C:\Users\GabrielW\source\repos\comboBox\comboBox\obj\Debug\comboBox.exe
+C:\Users\GabrielW\source\repos\comboBox\comboBox\obj\Debug\comboBox.xml
+C:\Users\GabrielW\source\repos\comboBox\comboBox\obj\Debug\comboBox.pdb
