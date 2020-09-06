@@ -1,0 +1,12 @@
+C:\Users\GabrielW\source\repos\textos\textos\bin\Debug\textos.exe.config
+C:\Users\GabrielW\source\repos\textos\textos\bin\Debug\textos.exe
+C:\Users\GabrielW\source\repos\textos\textos\bin\Debug\textos.pdb
+C:\Users\GabrielW\source\repos\textos\textos\bin\Debug\textos.xml
+C:\Users\GabrielW\source\repos\textos\textos\obj\Debug\textos.vbprojAssemblyReference.cache
+C:\Users\GabrielW\source\repos\textos\textos\obj\Debug\textos.Form1.resources
+C:\Users\GabrielW\source\repos\textos\textos\obj\Debug\textos.Resources.resources
+C:\Users\GabrielW\source\repos\textos\textos\obj\Debug\textos.vbproj.GenerateResource.cache
+C:\Users\GabrielW\source\repos\textos\textos\obj\Debug\textos.vbproj.CoreCompileInputs.cache
+C:\Users\GabrielW\source\repos\textos\textos\obj\Debug\textos.exe
+C:\Users\GabrielW\source\repos\textos\textos\obj\Debug\textos.xml
+C:\Users\GabrielW\source\repos\textos\textos\obj\Debug\textos.pdb
